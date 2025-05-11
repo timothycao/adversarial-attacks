@@ -1,0 +1,16 @@
+# Python venv
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+
+# Original dataset
+TestDataSet/
+
+# Saved adversarial datasets
+AdversarialTestSet*/
